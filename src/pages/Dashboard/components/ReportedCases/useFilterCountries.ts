@@ -18,11 +18,7 @@ export default function (
   >([]);
 
   useEffect(() => {
-    // eslint-disable-next-line no-console
-    console.log(44);
     if (statistic && statistic.length) {
-      // eslint-disable-next-line no-console
-      console.log("sdasd");
       const data = statistic
         .sort((a, b) => {
           return (
