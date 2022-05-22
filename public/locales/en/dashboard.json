@@ -1,0 +1,17 @@
+{
+  "deathCount": "Death Count",
+  "daily": "Daily",
+  "pleaseWait": "Please wait until data will be downloaded",
+  "total": "Total",
+  "totalDeaths": "Total deaths",
+  "totalCases": "Total cases",
+  "selectCountry": "Select country",
+  "reportedCases": "Reported cases",
+  "rankedCharts": "Ranked charts",
+  "lightTheme": "Light theme",
+  "darkTheme": "Dark theme",
+  "confirmedCases": "Confirmed cases",
+  "pleaseSelectCountry": "Please select country",
+  "errMessage": "Request is not completed",
+  "errDescription": "Please try little bit later"
+}
